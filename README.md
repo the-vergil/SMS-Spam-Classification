@@ -6,7 +6,7 @@ This is a SMS spam classification project. It takes input text from the user and
 SMS Spam is any junk mesage delivered to a mobile phone as text messaging through the Short Message Service (SMS).
  
 ### How the project is made?
-- The whole project is based on python programming langauge. 
+- The whole project is based on python programming language. 
 - It uses some useful libraries of python such as sklearn and nltk.
 - Scikit-learn or generally sklearn is used for feature extraction process and model building.
   - Feature extraction ---> CountVectorizer and TfidfVectorizer
