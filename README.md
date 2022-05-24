@@ -3,7 +3,7 @@
 This is a SMS spam classification project. It takes input text from the user and tells whether the text/message is spam or not.
 
 ### What is SMS Spam?
-SMS Spam is any junk mesage delivered to a moile phone as text mesaging through the Short Message Service (SMS).
+SMS Spam is any junk mesage delivered to a mobile phone as text messaging through the Short Message Service (SMS).
  
 ### How the project is made?
 - The whole project is based on python programming langauge. 
